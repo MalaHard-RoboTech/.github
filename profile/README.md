@@ -26,4 +26,8 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 📊 [Matlab_Scirpts](https://github.com/MalaHard-RoboTech/Matlab_Scirpts) — Data analysis and control simulations  
 - 🤖 [Alpine_Climbing_robots](https://github.com/MalaHard-RoboTech/Alpine_Climbing_robots) — Main repo for the climbing robot  
 
+<p align="center">
+  <img src="../image/schema.png" alt="Schema" />
+</p>
+
 ---
