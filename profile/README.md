@@ -30,7 +30,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 for electric schematic see the following link: [clik_here](https://app.diagrams.net/?state=%7B%22ids%22:%5B%221SWlFUtQWcLqqYK_TRkSc6NhGTX1uZMFa%22%5D,%22action%22:%22open%22,%22userId%22:%22115687910348338726937%22,%22resourceKeys%22:%7B%7D%7D)
 
 <p align="center">
-  <img src="../image/schema.png" alt="Schema" />
+  <img src="../image/schema2.png" alt="Schema" />
 </p>
 
 ---
