@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the GitHub organization of **MalaHard-RoboTech**, where we develop innovative robotic solutions for extreme environments.
+Welcome to the GitHub organization of **Alpine Robot**, where we develop innovative robotic solutions for extreme environments.
 
 ---
 
