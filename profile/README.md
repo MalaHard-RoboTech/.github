@@ -32,7 +32,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - 🌐 [Website IDRA LAB](https://idra-lab.github.io/research/field/)
 - 🌐 [Maker fair Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome/) 
 - 🌐 [Packing My Bags (and My Curiosity) for Maker Faire Rome](https://makezine.com/article/maker-news/live-from-maker-faire-rome)
-- 🌐 [Linkedin_1](https://www.linkedin.com/posts/unitrentodisi_makerfairerome-mfr2025-robotics-activity-7383878364362641408-Du_h/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)[Linkedin_2](https://www.linkedin.com/posts/unitrentodisi_makerfaire-irim3d-idralabs-activity-7387471145169547264-_umN/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)[Linkedin_3](https://www.linkedin.com/posts/michelefocchi_proud-to-have-presented-alpine-our-new-prototype-activity-7385670831810572288-Ywc2/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)
+- 🌐 [Linkedin_1](https://www.linkedin.com/posts/unitrentodisi_makerfairerome-mfr2025-robotics-activity-7383878364362641408-Du_h/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)  |  [Linkedin_2](https://www.linkedin.com/posts/unitrentodisi_makerfaire-irim3d-idralabs-activity-7387471145169547264-_umN/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)  |  [Linkedin_3](https://www.linkedin.com/posts/michelefocchi_proud-to-have-presented-alpine-our-new-prototype-activity-7385670831810572288-Ywc2/?utm_source=share&utm_medium=member_android&rcm=ACoAADlGAuIB4wQeB7vmq-Zzwe7Lg55tVTnk0WM)
 
 
 
