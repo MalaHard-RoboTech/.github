@@ -15,7 +15,7 @@ Mountain slopes represent harsh terrains where humans are often required to perf
 - Carrying heavy payloads  
 - Performing complex tasks  
 - Overcoming natural barriers by jumping using a retractable leg while suspended on ropes  
-🔗 [Research paper on ALPINE]([https://arxiv.org/pdf/2403.15142](https://www.sciencedirect.com/science/article/pii/S0921889025000855))  
+🔗 [Research paper on ALPINE]([https://arxiv.org/pdf/2403.15142](https://www.sciencedirect.com/science/article/pii/S0921889025000855)  
 🔗 [Repository: code to optimize jump trajectories](https://github.com/mfocchi/climbing_robots2)
 🔗 [Thesis: Mechatronic Design of the ALPINE robot](https://github.com/alpine-robot/Documentation_Climb/blob/main/Luca_Hardonk_thesis.pdf)
 ---
